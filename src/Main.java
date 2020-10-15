@@ -13,62 +13,43 @@ public class Main {
         for (int i=0; i < 5; i++) {
             who = random.nextInt(2);
             action = random.nextInt(3);
-            if (who > 0) {fillingDog(action);}
-            else {fillingCat(action);}
+            fillingAnimal(action, who);
         }
-
-
     }
-    public static void fillingDog(int action) {
+    public static void fillingAnimal(int action, int who) {
         Random random = new Random();
+        Animal animal;
         Dog dog = new Dog();
-        dog.name = nameDog[random.nextInt(nameDog.length - 1)];
-        dog.color = color[random.nextInt(color.length - 1)];
-        dog.age = random.nextInt(19) + 1;
+        Cat cat = new Cat();
+        if (who>0) {animal = dog; animal.name = nameDog[random.nextInt(nameDog.length - 1)];}
+        else {animal = cat; animal.name = nameCat[random.nextInt(nameDog.length - 1)];}
+        animal.color = color[random.nextInt(color.length - 1)];
+        animal.age = random.nextInt(19) + 1;
         switch (action) {
             case (0):
-                dog.distance = random.nextInt(700);
-                dog.limit = random.nextInt(700);
-                dog.run();
+                animal.distance = random.nextInt(700);
+                animal.limit = random.nextInt(700);
+                animal.run();
                 break;
 
             case (1):
-                dog.distance = random.nextInt(20);
-                dog.limit = random.nextInt(20);
-                dog.swim();
+                animal.distance = random.nextInt(20);
+                animal.limit = random.nextInt(20);
+                animal.swim();
                 break;
 
             case (2):
-                dog.heights = (float) (Math.random() * 2f);
-                dog.limitJump = (float) (Math.random() * 2f);
-                dog.jumpOver();
+                animal.heights = (float) (Math.random() * 2f);
+                animal.limitJump = (float) (Math.random() * 2f);
+                animal.jumpOver();
                 break;
         }
     }
 
-    public static void fillingCat(int action){
-        Random random = new Random();
-        Cat cat = new Cat();
-        cat.name = nameCat[random.nextInt(nameDog.length - 1)];
-        cat.color = color[random.nextInt(color.length - 1)];
-        cat.age = random.nextInt(19)+1;
-        switch (action) {
-            case (0) :
-                cat.distance = random.nextInt(700);
-                cat.limit = random.nextInt(700);
-                cat.run(); break;
 
-            case (1) :
-                cat.distance = random.nextInt(20);
-                cat.limit = random.nextInt(20);
-                cat.swim(); break;
 
-            case (2) :
-                cat.heights = (float) (Math.random() * 4f);
-                cat.limitJump = (float) (Math.random() * 4f);
-                cat.jumpOver(); break;
 
-        }
-    }
+
+
 }
 
