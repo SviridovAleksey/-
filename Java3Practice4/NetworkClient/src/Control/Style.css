@@ -1,0 +1,17 @@
+.backGroundStyle {
+-fx-background-color: #6300F9;
+ -fx-text-fill: #1A277E;
+}
+
+#menuLable {
+-fx-background-color: #0019f9;
+}
+
+.menu-bar .label {
+-fx-text-fill: #ffffff;
+}
+.menu-item .label{
+      -fx-text-fill: BLACK;
+}
+
+
