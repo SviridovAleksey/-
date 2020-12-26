@@ -1,0 +1,92 @@
+дек 26, 2020 9:02:14 PM chat.MyServer start
+INFO: Сервер запущен
+дек 26, 2020 9:02:14 PM chat.MyServer waitAndProcessNewClientConnection
+INFO: Ожидание пользователя
+дек 26, 2020 9:02:26 PM chat.MyServer waitAndProcessNewClientConnection
+INFO: Клиент подключен
+дек 26, 2020 9:02:26 PM chat.MyServer waitAndProcessNewClientConnection
+INFO: Ожидание пользователя
+дек 26, 2020 9:02:32 PM chat.MyServer log
+INFO: Кура написал сообщение в общий чат
+дек 26, 2020 9:02:32 PM chat.MyServer log
+INFO: Кура ---------вошел в чат
+дек 26, 2020 9:02:41 PM chat.MyServer waitAndProcessNewClientConnection
+INFO: Клиент подключен
+дек 26, 2020 9:02:41 PM chat.MyServer waitAndProcessNewClientConnection
+INFO: Ожидание пользователя
+дек 26, 2020 9:02:46 PM chat.MyServer log
+INFO: петя написал сообщение в общий чат
+дек 26, 2020 9:02:46 PM chat.MyServer log
+INFO: петя ---------вошел в чат
+дек 26, 2020 9:03:08 PM chat.MyServer log
+INFO: петя написал сообщение в общий чат
+дек 26, 2020 9:03:19 PM chat.MyServer log
+INFO: Кура написал сообщение в линый чат
+дек 26, 2020 9:03:33 PM chat.MyServer log
+INFO: Кура ---------вышел из чата
+дек 26, 2020 9:03:33 PM chat.MyServer lambda$waitAndProcessNewClientConnection$0
+SEVERE: Connection reset
+дек 26, 2020 9:03:41 PM chat.MyServer log
+INFO: петя ---------вышел из чата
+дек 26, 2020 9:03:41 PM chat.MyServer lambda$waitAndProcessNewClientConnection$0
+SEVERE: Connection reset
+дек 26, 2020 9:05:36 PM chat.MyServer start
+INFO: Сервер запущен
+дек 26, 2020 9:05:36 PM chat.MyServer waitAndProcessNewClientConnection
+INFO: Ожидание пользователя
+дек 26, 2020 9:05:43 PM chat.MyServer waitAndProcessNewClientConnection
+INFO: Клиент подключен
+дек 26, 2020 9:05:43 PM chat.MyServer waitAndProcessNewClientConnection
+INFO: Ожидание пользователя
+дек 26, 2020 9:05:50 PM chat.MyServer logLevelInfo
+INFO: Кура написал сообщение в общий чат
+дек 26, 2020 9:05:50 PM chat.MyServer logLevelInfo
+INFO: Кура ---------вошел в чат
+дек 26, 2020 9:06:01 PM chat.MyServer waitAndProcessNewClientConnection
+INFO: Клиент подключен
+дек 26, 2020 9:06:01 PM chat.MyServer waitAndProcessNewClientConnection
+INFO: Ожидание пользователя
+дек 26, 2020 9:06:11 PM chat.MyServer logLevelInfo
+INFO: петя написал сообщение в общий чат
+дек 26, 2020 9:06:11 PM chat.MyServer logLevelInfo
+INFO: петя ---------вошел в чат
+дек 26, 2020 9:06:25 PM chat.MyServer logLevelInfo
+INFO: Кура написал сообщение в общий чат
+дек 26, 2020 9:06:30 PM chat.MyServer logLevelInfo
+INFO: Кура ---------вышел из чата
+дек 26, 2020 9:06:30 PM chat.MyServer lambda$waitAndProcessNewClientConnection$0
+SEVERE: Connection reset
+дек 26, 2020 9:06:33 PM chat.MyServer logLevelInfo
+INFO: петя ---------вышел из чата
+дек 26, 2020 9:06:33 PM chat.MyServer lambda$waitAndProcessNewClientConnection$0
+SEVERE: Connection reset
+дек 26, 2020 9:06:58 PM chat.MyServer start
+INFO: Сервер запущен
+дек 26, 2020 9:06:58 PM chat.MyServer waitAndProcessNewClientConnection
+INFO: Ожидание пользователя
+дек 26, 2020 9:07:09 PM chat.MyServer waitAndProcessNewClientConnection
+INFO: Клиент подключен
+дек 26, 2020 9:07:09 PM chat.MyServer waitAndProcessNewClientConnection
+INFO: Ожидание пользователя
+дек 26, 2020 9:07:17 PM chat.MyServer logLevelInfo
+INFO: Кура написал сообщение в общий чат
+дек 26, 2020 9:07:17 PM chat.MyServer logLevelInfo
+INFO: Кура ---------вошел в чат
+дек 26, 2020 9:07:18 PM chat.MyServer waitAndProcessNewClientConnection
+INFO: Клиент подключен
+дек 26, 2020 9:07:18 PM chat.MyServer waitAndProcessNewClientConnection
+INFO: Ожидание пользователя
+дек 26, 2020 9:07:22 PM chat.MyServer logLevelInfo
+INFO: петя написал сообщение в общий чат
+дек 26, 2020 9:07:22 PM chat.MyServer logLevelInfo
+INFO: петя ---------вошел в чат
+дек 26, 2020 9:07:25 PM chat.MyServer logLevelInfo
+INFO: петя написал сообщение в общий чат
+дек 26, 2020 9:07:30 PM chat.MyServer logLevelInfo
+INFO: петя ---------вышел из чата
+дек 26, 2020 9:07:30 PM chat.MyServer lambda$waitAndProcessNewClientConnection$0
+SEVERE: Connection reset
+дек 26, 2020 9:07:36 PM chat.MyServer logLevelInfo
+INFO: Кура ---------вышел из чата
+дек 26, 2020 9:07:36 PM chat.MyServer lambda$waitAndProcessNewClientConnection$0
+SEVERE: Connection reset

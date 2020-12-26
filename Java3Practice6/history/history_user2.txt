@@ -1,0 +1,71 @@
+вход - Thu Dec 17 16:28:39 MSK 2020
+вход - Thu Dec 17 16:39:12 MSK 2020
+вход - Thu Dec 17 16:41:27 MSK 2020
+вход - Thu Dec 17 16:52:15 MSK 2020
+>>> Ванька присоединился к чату
+>>> Иван присоединился к чату
+>>> Игорь присоединился к чату
+Игорь: привет
+>>> Даша присоединился к чату
+Даша: привет
+>>> Даша вышел из чата
+вход - Thu Dec 17 17:16:59 MSK 2020
+вход - Thu Dec 17 17:20:32 MSK 2020
+вход - Thu Dec 17 22:11:22 MSK 2020
+вход - Thu Dec 17 22:12:08 MSK 2020
+>>> Ванька присоединился к чату
+вход - Thu Dec 17 22:13:13 MSK 2020
+вход - Sat Dec 26 18:17:14 MSK 2020
+вход - Sat Dec 26 19:53:17 MSK 2020
+вход - Sat Dec 26 19:57:17 MSK 2020
+вход - Sat Dec 26 19:59:16 MSK 2020
+sdfgdfgdf
+вход - Sat Dec 26 20:01:54 MSK 2020
+fgdfgfdg
+вход - Sat Dec 26 20:04:16 MSK 2020
+fdgfdgfd
+fgdfgdfgd - личное для Кура
+>>> Кура вышел из чата
+вход - Sat Dec 26 20:07:38 MSK 2020
+dfdsfds
+вход - Sat Dec 26 20:09:34 MSK 2020
+dsfdsfdsf
+dsfsd - личное для Кура
+>>> Кура вышел из чата
+вход - Sat Dec 26 20:13:23 MSK 2020
+dfdsfdsfdsf
+>>> Кура вышел из чата
+вход - Sat Dec 26 20:15:41 MSK 2020
+dsfdsfsdfsd
+вход - Sat Dec 26 20:21:00 MSK 2020
+вход - Sat Dec 26 20:27:19 MSK 2020
+sdasdsadas
+>>> Кура вышел из чата
+вход - Sat Dec 26 20:30:20 MSK 2020
+>>> Ванька присоединился к чату
+Ванька: fgfgfdgf
+Личное от - Ванька: jklkjlkjlkj
+вход - Sat Dec 26 20:36:32 MSK 2020
+fgfdgfdgdf
+вход - Sat Dec 26 20:42:42 MSK 2020
+dfsdfdsf
+>>> Кура вышел из чата
+вход - Sat Dec 26 20:44:37 MSK 2020
+vcbvcbvcb - личное для Кура
+вход - Sat Dec 26 20:47:28 MSK 2020
+dfsdfdsf
+вход - Sat Dec 26 20:57:25 MSK 2020
+sdfdsfdsfsd
+sfdsdfdsfsdfds - личное для Кура
+>>> Кура вышел из чата
+вход - Sat Dec 26 21:00:12 MSK 2020
+kjfl;gdflg
+вход - Sat Dec 26 21:02:46 MSK 2020
+fgdfgfdgfdgg
+Личное от - Кура: cvbvbcvbcv
+>>> Кура вышел из чата
+вход - Sat Dec 26 21:06:11 MSK 2020
+Кура: fvfgdf
+>>> Кура вышел из чата
+вход - Sat Dec 26 21:07:22 MSK 2020
+dfgsdfdsf
