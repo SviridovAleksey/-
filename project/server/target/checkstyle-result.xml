@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.40">
+<file name="F:\Java\java4\java-net-course\project\server\src\main\java\ru\sviridovaleksey\clientHandler\BaseAuthService.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\server\src\main\java\ru\sviridovaleksey\workwithfiles\WorkWithFile.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\server\src\main\java\ru\sviridovaleksey\workwithfiles\ShowAllDirectory.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\server\src\main\java\ru\sviridovaleksey\newclientconnection\ServerOutHandler.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\server\src\main\java\ru\sviridovaleksey\newclientconnection\ClientConnection.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\server\src\main\java\ru\sviridovaleksey\newclientconnection\WhatDo.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\server\src\main\java\ru\sviridovaleksey\newclientconnection\MessageForClient.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\server\src\main\java\ru\sviridovaleksey\newclientconnection\ServerInHandler.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\server\src\main\java\ru\sviridovaleksey\newclientconnection\EncoderServer.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\server\src\main\java\ru\sviridovaleksey\newclientconnection\Decoder.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\server\src\main\java\ru\sviridovaleksey\Server.java">
+</file>
+</checkstyle>

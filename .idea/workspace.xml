@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="server:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66bb800a-33ce-482c-95c7-139fa3194ff3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lesson-1/HOMEWORK.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-1/PITCHME.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-1/dir/2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-1/dir/from.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-1/dir/from_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-1/dir/out.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-1/dir/subdir0/file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-1/dir/to.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-1/src/main/java/ru/daniilazarnov/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-1/src/test/java/ru/daniilazarnov/MainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-1/src/test/resources/file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-2/channel_example_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-2/channel_example_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-2/channel_example_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-2/channel_example_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-2/src/main/java/ru/daniilazarnov/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-2/src/main/java/ru/daniilazarnov/NioChatServerExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-2/src/test/java/ru/daniilazarnov/MainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-3/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-3/src/main/java/ru/daniilazarnov/discard/DiscardServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-3/src/main/java/ru/daniilazarnov/discard/DiscardServerHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-3/src/main/java/ru/daniilazarnov/pipeline/BlockServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-3/src/main/java/ru/daniilazarnov/pipeline/MyClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-3/src/main/java/ru/daniilazarnov/pipeline/handlers/in/FinalHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-3/src/main/java/ru/daniilazarnov/pipeline/handlers/in/FirstHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-3/src/main/java/ru/daniilazarnov/pipeline/handlers/in/GatewayHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-3/src/main/java/ru/daniilazarnov/pipeline/handlers/in/SecondHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-3/src/main/java/ru/daniilazarnov/pipeline/handlers/out/StringToByteBufHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-3/src/main/java/ru/daniilazarnov/pipeline/handlers/out/StringToByteBufHandler2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-3/src/main/java/ru/daniilazarnov/proto/client/Network.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-3/src/main/java/ru/daniilazarnov/proto/client/ProtoClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-3/src/main/java/ru/daniilazarnov/proto/old/Network.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-3/src/main/java/ru/daniilazarnov/proto/old/ProtoClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-3/src/main/java/ru/daniilazarnov/proto/old/ProtoFileSender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-3/src/main/java/ru/daniilazarnov/proto/server/ProtoHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-3/src/main/java/ru/daniilazarnov/proto/server/ProtoServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-3/src/main/java/ru/daniilazarnov/proto/server/State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-3/src/main/java/ru/daniilazarnov/serialization/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-3/src/main/java/ru/daniilazarnov/serialization/CloudServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-3/src/main/java/ru/daniilazarnov/serialization/CloudServerHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-3/src/main/java/ru/daniilazarnov/serialization/domain/FileMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-3/src/main/java/ru/daniilazarnov/serialization/domain/MyMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-3/src/main/resources/Netty_Idea_Diagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-4/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-4/src/main/java/ru/daniilazarnov/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-4/src/test/java/ru/daniilazarnov/MainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-6/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-6/src/main/java/ru/daniilazarnov/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-6/src/test/java/ru/daniilazarnov/MainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-7/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-7/src/main/java/ru/daniilazarnov/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-7/src/main/resources/java_classloader_hierarchy.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-7/src/test/java/ru/daniilazarnov/MainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/client/src/main/java/ru/daniilazarnov/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/common/src/main/java/ru/daniilazarnov/Common.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/server/src/main/java/ru/daniilazarnov/Server.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="createModuleGroups" value="true" />
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="jdkForImporter" value="11" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1njD2RpXcf519KVbdMaWlaH7y0X" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="D:/GeekHomeWork/java-net-course" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.4217119" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Java\java4\java-net-course\project\server\src\main\java" />
+      <recent name="F:\Java\java4\java-net-course\project\client\src\main\resources" />
+      <recent name="F:\Java\java4\java-net-course\project\client\src\test\resources" />
+      <recent name="F:\Java\java4\java-net-course\project\server\src\main\resources" />
+      <recent name="F:\Java\java4\java-net-course\project\server" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.sviridovaleksey.Client" />
+      <module name="client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.sviridovaleksey.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.sviridovaleksey.Server" />
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.sviridovaleksey.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="client" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ClientTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientTest.testShowDirectory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="client" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ClientTest" />
+      <option name="METHOD_NAME" value="testShowDirectory" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestServer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestServer" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestServer.testDeleteFileClient" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestServer" />
+      <option name="METHOD_NAME" value="testDeleteFileClient" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Server" />
+      <item itemvalue="JUnit.TestServer.testDeleteFileClient" />
+      <item itemvalue="JUnit.ClientTest.testShowDirectory" />
+      <item itemvalue="JUnit.TestServer" />
+      <item itemvalue="JUnit.ClientTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Server" />
+        <item itemvalue="JUnit.ClientTest" />
+        <item itemvalue="JUnit.TestServer" />
+        <item itemvalue="JUnit.TestServer.testDeleteFileClient" />
+        <item itemvalue="JUnit.ClientTest.testShowDirectory" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66bb800a-33ce-482c-95c7-139fa3194ff3" name="Default Changelist" comment="" />
+      <created>1611894400935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611894400935</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1334" y="46" key="#Inspections" timestamp="1613473536785">
+      <screen x="-1920" y="-152" width="1920" height="1040" />
+    </state>
+    <state x="-1334" y="46" key="#Inspections/0.0.1366.728/-1920.-152.1920.1040@-1920.-152.1920.1040" timestamp="1613473536785" />
+    <state x="-1208" y="192" key="#Notifications" timestamp="1613492886640">
+      <screen x="-1920" y="-152" width="1920" height="1040" />
+    </state>
+    <state x="-1208" y="192" key="#Notifications/0.0.1366.728/-1920.-152.1920.1040@-1920.-152.1920.1040" timestamp="1613492886640" />
+    <state x="367" y="78" width="1235" height="851" key="#Project_Structure" timestamp="1614029711105">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="-1480" y="-58" width="1235" height="851" key="#Project_Structure/0.0.1366.728/-1920.-152.1920.1040@-1920.-152.1920.1040" timestamp="1613817829247" />
+    <state x="367" y="78" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1614029711105" />
+    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612529939291">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1612529939291" />
+    <state x="-1828" y="-60" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1613643500485">
+      <screen x="-1920" y="-152" width="1920" height="1040" />
+    </state>
+    <state x="-1828" y="-60" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728/-1920.-152.1920.1040@-1920.-152.1920.1040" timestamp="1613643500485" />
+    <state x="-1194" y="12" key="#com.intellij.ide.util.MemberChooser" timestamp="1612974213893">
+      <screen x="-1920" y="-152" width="1920" height="1040" />
+    </state>
+    <state x="-1194" y="12" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-1920.-152.1920.1040@-1920.-152.1920.1040" timestamp="1612974213893" />
+    <state x="605" y="136" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1611949322081" />
+    <state x="-1209" y="229" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1613804000242">
+      <screen x="-1920" y="-152" width="1920" height="1040" />
+    </state>
+    <state x="-1209" y="229" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728/-1920.-152.1920.1040@-1920.-152.1920.1040" timestamp="1613804000242" />
+    <state x="-1109" y="149" width="729" height="578" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1613990753846">
+      <screen x="-1920" y="-152" width="1920" height="1040" />
+    </state>
+    <state x="-1109" y="149" width="729" height="578" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1366.728/-1920.-152.1920.1040@-1920.-152.1920.1040" timestamp="1613990753846" />
+    <state x="-1348" y="292" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1611894624418">
+      <screen x="-1920" y="-152" width="1920" height="1040" />
+    </state>
+    <state x="-1348" y="292" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728/-1920.-152.1920.1040@-1920.-152.1920.1040" timestamp="1611894624418" />
+    <state x="583" y="299" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1613553328790">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="583" y="299" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.860@0.0.1600.860" timestamp="1613553328790" />
+    <state x="-1209" y="193" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1613979100493">
+      <screen x="-1920" y="-152" width="1920" height="1040" />
+    </state>
+    <state x="-1209" y="193" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1366.728/-1920.-152.1920.1040@-1920.-152.1920.1040" timestamp="1613979100493" />
+    <state x="-1213" y="213" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1613817636834">
+      <screen x="-1920" y="-152" width="1920" height="1040" />
+    </state>
+    <state x="-1213" y="213" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728/-1920.-152.1920.1040@-1920.-152.1920.1040" timestamp="1613817636834" />
+    <state x="-1180" y="123" key="FileChooserDialogImpl" timestamp="1614156960414">
+      <screen x="-1920" y="-152" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="123" key="FileChooserDialogImpl/0.0.1366.728/-1920.-152.1920.1040@-1920.-152.1920.1040" timestamp="1614156960414" />
+    <state x="617" y="227" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1614053060193" />
+    <state width="1877" height="288" key="GridCell.Tab.0.bottom" timestamp="1614172377001">
+      <screen x="-1920" y="-152" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="288" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-152.1920.1040@-1920.-152.1920.1040" timestamp="1614172377001" />
+    <state width="1557" height="196" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1614056925412" />
+    <state width="1877" height="288" key="GridCell.Tab.0.center" timestamp="1614172377001">
+      <screen x="-1920" y="-152" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="288" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-152.1920.1040@-1920.-152.1920.1040" timestamp="1614172377001" />
+    <state width="1557" height="196" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1614056925411" />
+    <state width="1877" height="288" key="GridCell.Tab.0.left" timestamp="1614172377001">
+      <screen x="-1920" y="-152" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="288" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-152.1920.1040@-1920.-152.1920.1040" timestamp="1614172377001" />
+    <state width="1557" height="196" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1614056925411" />
+    <state width="1877" height="288" key="GridCell.Tab.0.right" timestamp="1614172377001">
+      <screen x="-1920" y="-152" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="288" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-152.1920.1040@-1920.-152.1920.1040" timestamp="1614172377001" />
+    <state width="1557" height="196" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1614056925411" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1613595488182">
+      <screen x="-1920" y="-152" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1366.728/-1920.-152.1920.1040@-1920.-152.1920.1040" timestamp="1613595488182" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1613595488182">
+      <screen x="-1920" y="-152" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1366.728/-1920.-152.1920.1040@-1920.-152.1920.1040" timestamp="1613595488182" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1613595488182">
+      <screen x="-1920" y="-152" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1366.728/-1920.-152.1920.1040@-1920.-152.1920.1040" timestamp="1613595488182" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1613595488182">
+      <screen x="-1920" y="-152" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1366.728/-1920.-152.1920.1040@-1920.-152.1920.1040" timestamp="1613595488182" />
+    <state x="408" y="145" key="Maven.ArtifactSearchDialog" timestamp="1613574437458">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="-1430" y="23" key="Maven.ArtifactSearchDialog/0.0.1366.728/-1920.-152.1920.1040@-1920.-152.1920.1040" timestamp="1612957976421" />
+    <state x="408" y="145" key="Maven.ArtifactSearchDialog/0.0.1600.860@0.0.1600.860" timestamp="1613574437458" />
+    <state x="-1890" y="-62" width="1218" height="851" key="SettingsEditor" timestamp="1614169430581">
+      <screen x="-1920" y="-152" width="1920" height="1040" />
+    </state>
+    <state x="-1890" y="-62" width="1144" height="851" key="SettingsEditor/0.0.1366.728/-1920.-152.1920.1040@-1920.-152.1920.1040" timestamp="1614169430581" />
+    <state x="382" y="9" width="1218" height="851" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1614034762206" />
+    <state x="0" y="0" width="1184" height="576" key="dock-window-1" timestamp="1611944800153">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="0" y="0" width="1184" height="576" key="dock-window-1/0.0.1600.860@0.0.1600.860" timestamp="1611944800153" />
+    <state x="-1702" y="-92" key="new project wizard" timestamp="1613630971356">
+      <screen x="-1920" y="-152" width="1920" height="1040" />
+    </state>
+    <state x="-1702" y="-92" key="new project wizard/0.0.1366.728/-1920.-152.1920.1040@-1920.-152.1920.1040" timestamp="1613630971356" />
+    <state x="182" y="50" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1612513014215" />
+    <state x="-1260" y="125" key="refactoring.ChangeSignatureDialog" timestamp="1613128553055">
+      <screen x="-1920" y="-152" width="1920" height="1040" />
+    </state>
+    <state x="-1260" y="125" key="refactoring.ChangeSignatureDialog/0.0.1366.728/-1920.-152.1920.1040@-1920.-152.1920.1040" timestamp="1613128553055" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1614052705588">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="-1373" y="84" width="672" height="677" key="run.anything.popup/0.0.1366.728/-1920.-152.1920.1040@-1920.-152.1920.1040" timestamp="1613466753746" />
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1614052705588" />
+  </component>
+</project>

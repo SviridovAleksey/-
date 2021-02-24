@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.40">
+<file name="F:\Java\java4\java-net-course\project\client\src\main\java\ru\sviridovaleksey\Client.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\client\src\main\java\ru\sviridovaleksey\network\Connection.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\client\src\main\java\ru\sviridovaleksey\network\Encoder.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\client\src\main\java\ru\sviridovaleksey\network\NettyInHandler.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\client\src\main\java\ru\sviridovaleksey\network\DecoderClient.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\client\src\main\java\ru\sviridovaleksey\network\WhatDoClient.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\client\src\main\java\ru\sviridovaleksey\network\NettyOutHandler.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\client\src\main\java\ru\sviridovaleksey\interactionwithuser\Interaction.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\client\src\main\java\ru\sviridovaleksey\interactionwithuser\HelloMessage.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\client\src\main\java\ru\sviridovaleksey\interactionwithuser\ChoseAction.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\client\src\main\java\ru\sviridovaleksey\workwithfile\WorkWithFileClient.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\client\src\main\java\ru\sviridovaleksey\workwithfile\ShowAllDirectoryClient.java">
+</file>
+</checkstyle>

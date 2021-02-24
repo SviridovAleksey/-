@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/project/client/client.iml" filepath="$PROJECT_DIR$/project/client/client.iml" group="project and modules" />
+      <module fileurl="file://$PROJECT_DIR$/project/common/common.iml" filepath="$PROJECT_DIR$/project/common/common.iml" group="project and modules" />
+      <module fileurl="file://$PROJECT_DIR$/java-net-course.iml" filepath="$PROJECT_DIR$/java-net-course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project/project.iml" filepath="$PROJECT_DIR$/project/project.iml" group="project and modules" />
+      <module fileurl="file://$PROJECT_DIR$/project/server/server.iml" filepath="$PROJECT_DIR$/project/server/server.iml" group="project and modules" />
+    </modules>
+  </component>
+</project>
