@@ -1,0 +1,10 @@
+февр. 24, 2021 4:12:42 PM ru.sviridovaleksey.newclientconnection.ClientConnection startConnection
+INFO: Сервер запущен
+февр. 24, 2021 4:12:51 PM ru.sviridovaleksey.newclientconnection.ServerInHandler channelRegistered
+INFO: Подключился новый пользователь
+февр. 24, 2021 4:13:01 PM ru.sviridovaleksey.newclientconnection.ServerInHandler registrationProcess
+INFO: Попытка авторизоватьсяChannelHandlerContext(ServerInHandler#0, [id: 0x3d13e4dc, L:/127.0.0.1:8189 - R:/127.0.0.1:60025])
+февр. 24, 2021 4:13:01 PM ru.sviridovaleksey.workwithfiles.WorkWithFile createFirsDirectory
+INFO: Папка пользователя уже существует
+февр. 24, 2021 4:13:01 PM ru.sviridovaleksey.newclientconnection.ServerInHandler registrationProcess
+INFO: Удачная авторизацияChannelHandlerContext(ServerInHandler#0, [id: 0x3d13e4dc, L:/127.0.0.1:8189 - R:/127.0.0.1:60025])

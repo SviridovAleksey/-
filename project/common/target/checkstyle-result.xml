@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.40">
+<file name="F:\Java\java4\java-net-course\project\common\src\main\java\ru\sviridovaleksey\Command.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\common\src\main\java\ru\sviridovaleksey\TypeCommand.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\common\src\main\java\ru\sviridovaleksey\commands\AuthCommandData.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\common\src\main\java\ru\sviridovaleksey\commands\AuthErrorCommandData.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\common\src\main\java\ru\sviridovaleksey\commands\AuthOkCommandData.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\common\src\main\java\ru\sviridovaleksey\commands\MessageCommandData.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\common\src\main\java\ru\sviridovaleksey\commands\CreateNewFile.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\common\src\main\java\ru\sviridovaleksey\commands\CreateNewDirectory.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\common\src\main\java\ru\sviridovaleksey\commands\DeleteDirectory.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\common\src\main\java\ru\sviridovaleksey\commands\DeleteFile.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\common\src\main\java\ru\sviridovaleksey\commands\CopyFile.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\common\src\main\java\ru\sviridovaleksey\commands\PasteFile.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\common\src\main\java\ru\sviridovaleksey\commands\ErrActionMessage.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\common\src\main\java\ru\sviridovaleksey\commands\SuccessAction.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\common\src\main\java\ru\sviridovaleksey\commands\ShowAllInDirectory.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\common\src\main\java\ru\sviridovaleksey\commands\GetShowDir.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\common\src\main\java\ru\sviridovaleksey\commands\GetBackDir.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\common\src\main\java\ru\sviridovaleksey\commands\WriteInToFile.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\common\src\main\java\ru\sviridovaleksey\commands\RequestFileFromClient.java">
+</file>
+<file name="F:\Java\java4\java-net-course\project\common\src\main\java\ru\sviridovaleksey\commands\RenameFile.java">
+</file>
+</checkstyle>

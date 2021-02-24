@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-02-24T12:10:34.414920300Z</date>
+  <millis>1614168634414</millis>
+  <nanos>920300</nanos>
+  <sequence>0</sequence>
+  <logger>ru.sviridovaleksey.workwithfiles.WorkWithFile</logger>
+  <level>INFO</level>
+  <class>ru.sviridovaleksey.workwithfiles.WorkWithFile</class>
+  <method>processCreate</method>
+  <thread>1</thread>
+  <message>Папка для пользователя  создана F:\Java\java4\java-net-course\project\server\TestFOLDER</message>
+</record>
+<record>
+  <date>2021-02-24T12:10:34.542919200Z</date>
+  <millis>1614168634542</millis>
+  <nanos>919200</nanos>
+  <sequence>1</sequence>
+  <logger>ru.sviridovaleksey.workwithfiles.WorkWithFile</logger>
+  <level>INFO</level>
+  <class>ru.sviridovaleksey.workwithfiles.WorkWithFile</class>
+  <method>processCreate</method>
+  <thread>1</thread>
+  <message>Папка для пользователя  создана F:\Java\java4\java-net-course\project\server\TestFirst</message>
+</record>
+<record>
+  <date>2021-02-24T12:10:34.578922100Z</date>
+  <millis>1614168634578</millis>
+  <nanos>922100</nanos>
+  <sequence>2</sequence>
+  <logger>ru.sviridovaleksey.workwithfiles.WorkWithFile</logger>
+  <level>INFO</level>
+  <class>ru.sviridovaleksey.workwithfiles.WorkWithFile</class>
+  <method>processCreate</method>
+  <thread>1</thread>
+  <message>Папка для пользователя test создана F:\Java\java4\java-net-course\project\server\TestNewFolder</message>
+</record>
+<record>
+  <date>2021-02-24T12:10:34.589916600Z</date>
+  <millis>1614168634589</millis>
+  <nanos>916600</nanos>
+  <sequence>3</sequence>
+  <logger>ru.sviridovaleksey.workwithfiles.WorkWithFile</logger>
+  <level>INFO</level>
+  <class>ru.sviridovaleksey.workwithfiles.WorkWithFile</class>
+  <method>processCreate</method>
+  <thread>1</thread>
+  <message>Файл для пользователя test создан F:\Java\java4\java-net-course\project\server\TestFile.txt</message>
+</record>
+<record>
+  <date>2021-02-24T12:10:34.623920900Z</date>
+  <millis>1614168634623</millis>
+  <nanos>920900</nanos>
+  <sequence>4</sequence>
+  <logger>ru.sviridovaleksey.workwithfiles.WorkWithFile</logger>
+  <level>INFO</level>
+  <class>ru.sviridovaleksey.workwithfiles.WorkWithFile</class>
+  <method>renameFile</method>
+  <thread>1</thread>
+  <message>Файл переименован для юзера test</message>
+</record>
+<record>
+  <date>2021-02-24T12:10:34.638922200Z</date>
+  <millis>1614168634638</millis>
+  <nanos>922200</nanos>
+  <sequence>5</sequence>
+  <logger>ru.sviridovaleksey.workwithfiles.WorkWithFile</logger>
+  <level>INFO</level>
+  <class>ru.sviridovaleksey.workwithfiles.WorkWithFile</class>
+  <method>renameFile</method>
+  <thread>1</thread>
+  <message>Файл переименован для юзера test</message>
+</record>
+<record>
+  <date>2021-02-24T12:10:34.716924400Z</date>
+  <millis>1614168634716</millis>
+  <nanos>924400</nanos>
+  <sequence>6</sequence>
+  <logger>ru.sviridovaleksey.workwithfiles.WorkWithFile</logger>
+  <level>INFO</level>
+  <class>ru.sviridovaleksey.workwithfiles.WorkWithFile</class>
+  <method>recursiveDeleteDirectory</method>
+  <thread>1</thread>
+  <message>Удаленный файл или папка: F:\Java\java4\java-net-course\project\server\TestFOLDER2</message>
+</record>
+<record>
+  <date>2021-02-24T12:10:34.761003Z</date>
+  <millis>1614168634761</millis>
+  <nanos>3000</nanos>
+  <sequence>7</sequence>
+  <logger>ru.sviridovaleksey.workwithfiles.WorkWithFile</logger>
+  <level>INFO</level>
+  <class>ru.sviridovaleksey.workwithfiles.WorkWithFile</class>
+  <method>recursiveDeleteDirectory</method>
+  <thread>1</thread>
+  <message>Удаленный файл или папка: F:\Java\java4\java-net-course\project\server\TestFirst</message>
+</record>
+<record>
+  <date>2021-02-24T12:10:34.788998200Z</date>
+  <millis>1614168634788</millis>
+  <nanos>998200</nanos>
+  <sequence>8</sequence>
+  <logger>ru.sviridovaleksey.workwithfiles.WorkWithFile</logger>
+  <level>INFO</level>
+  <class>ru.sviridovaleksey.workwithfiles.WorkWithFile</class>
+  <method>recursiveDeleteDirectory</method>
+  <thread>1</thread>
+  <message>Удаленный файл или папка: F:\Java\java4\java-net-course\project\server\TestNewFolder</message>
+</record>
+<record>
+  <date>2021-02-24T12:10:34.809087Z</date>
+  <millis>1614168634809</millis>
+  <nanos>87000</nanos>
+  <sequence>9</sequence>
+  <logger>ru.sviridovaleksey.workwithfiles.WorkWithFile</logger>
+  <level>INFO</level>
+  <class>ru.sviridovaleksey.workwithfiles.WorkWithFile</class>
+  <method>recursiveDeleteDirectory</method>
+  <thread>1</thread>
+  <message>Удаленный файл или папка: F:\Java\java4\java-net-course\project\server\TestFile2.txt</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-02-24T12:25:07.247272600Z</date>
+  <millis>1614169507247</millis>
+  <nanos>272600</nanos>
+  <sequence>0</sequence>
+  <logger>ru.sviridovaleksey.workwithfiles.WorkWithFile</logger>
+  <level>INFO</level>
+  <class>ru.sviridovaleksey.workwithfiles.WorkWithFile</class>
+  <method>processCreate</method>
+  <thread>1</thread>
+  <message>Папка для пользователя  создана F:\Java\java4\java-net-course\project\server\TestFOLDER</message>
+</record>
+<record>
+  <date>2021-02-24T12:25:07.396272500Z</date>
+  <millis>1614169507396</millis>
+  <nanos>272500</nanos>
+  <sequence>1</sequence>
+  <logger>ru.sviridovaleksey.workwithfiles.WorkWithFile</logger>
+  <level>INFO</level>
+  <class>ru.sviridovaleksey.workwithfiles.WorkWithFile</class>
+  <method>processCreate</method>
+  <thread>1</thread>
+  <message>Папка для пользователя  создана F:\Java\java4\java-net-course\project\server\TestFirst</message>
+</record>
+<record>
+  <date>2021-02-24T12:25:07.437269900Z</date>
+  <millis>1614169507437</millis>
+  <nanos>269900</nanos>
+  <sequence>2</sequence>
+  <logger>ru.sviridovaleksey.workwithfiles.WorkWithFile</logger>
+  <level>INFO</level>
+  <class>ru.sviridovaleksey.workwithfiles.WorkWithFile</class>
+  <method>processCreate</method>
+  <thread>1</thread>
+  <message>Папка для пользователя test создана F:\Java\java4\java-net-course\project\server\TestNewFolder</message>
+</record>
+<record>
+  <date>2021-02-24T12:25:07.449269500Z</date>
+  <millis>1614169507449</millis>
+  <nanos>269500</nanos>
+  <sequence>3</sequence>
+  <logger>ru.sviridovaleksey.workwithfiles.WorkWithFile</logger>
+  <level>INFO</level>
+  <class>ru.sviridovaleksey.workwithfiles.WorkWithFile</class>
+  <method>processCreate</method>
+  <thread>1</thread>
+  <message>Файл для пользователя test создан F:\Java\java4\java-net-course\project\server\TestFile.txt</message>
+</record>
+<record>
+  <date>2021-02-24T12:25:07.481272Z</date>
+  <millis>1614169507481</millis>
+  <nanos>272000</nanos>
+  <sequence>4</sequence>
+  <logger>ru.sviridovaleksey.workwithfiles.WorkWithFile</logger>
+  <level>INFO</level>
+  <class>ru.sviridovaleksey.workwithfiles.WorkWithFile</class>
+  <method>renameFile</method>
+  <thread>1</thread>
+  <message>Файл переименован для юзера test</message>
+</record>
+<record>
+  <date>2021-02-24T12:25:07.495273900Z</date>
+  <millis>1614169507495</millis>
+  <nanos>273900</nanos>
+  <sequence>5</sequence>
+  <logger>ru.sviridovaleksey.workwithfiles.WorkWithFile</logger>
+  <level>INFO</level>
+  <class>ru.sviridovaleksey.workwithfiles.WorkWithFile</class>
+  <method>renameFile</method>
+  <thread>1</thread>
+  <message>Файл переименован для юзера test</message>
+</record>
+<record>
+  <date>2021-02-24T12:25:07.558275800Z</date>
+  <millis>1614169507558</millis>
+  <nanos>275800</nanos>
+  <sequence>6</sequence>
+  <logger>ru.sviridovaleksey.workwithfiles.WorkWithFile</logger>
+  <level>INFO</level>
+  <class>ru.sviridovaleksey.workwithfiles.WorkWithFile</class>
+  <method>recursiveDeleteDirectory</method>
+  <thread>1</thread>
+  <message>Удаленный файл или папка: F:\Java\java4\java-net-course\project\server\TestFOLDER2</message>
+</record>
+<record>
+  <date>2021-02-24T12:25:07.593273100Z</date>
+  <millis>1614169507593</millis>
+  <nanos>273100</nanos>
+  <sequence>7</sequence>
+  <logger>ru.sviridovaleksey.workwithfiles.WorkWithFile</logger>
+  <level>INFO</level>
+  <class>ru.sviridovaleksey.workwithfiles.WorkWithFile</class>
+  <method>recursiveDeleteDirectory</method>
+  <thread>1</thread>
+  <message>Удаленный файл или папка: F:\Java\java4\java-net-course\project\server\TestFirst</message>
+</record>
+<record>
+  <date>2021-02-24T12:25:07.620278800Z</date>
+  <millis>1614169507620</millis>
+  <nanos>278800</nanos>
+  <sequence>8</sequence>
+  <logger>ru.sviridovaleksey.workwithfiles.WorkWithFile</logger>
+  <level>INFO</level>
+  <class>ru.sviridovaleksey.workwithfiles.WorkWithFile</class>
+  <method>recursiveDeleteDirectory</method>
+  <thread>1</thread>
+  <message>Удаленный файл или папка: F:\Java\java4\java-net-course\project\server\TestNewFolder</message>
+</record>
+<record>
+  <date>2021-02-24T12:25:07.647279600Z</date>
+  <millis>1614169507647</millis>
+  <nanos>279600</nanos>
+  <sequence>9</sequence>
+  <logger>ru.sviridovaleksey.workwithfiles.WorkWithFile</logger>
+  <level>INFO</level>
+  <class>ru.sviridovaleksey.workwithfiles.WorkWithFile</class>
+  <method>recursiveDeleteDirectory</method>
+  <thread>1</thread>
+  <message>Удаленный файл или папка: F:\Java\java4\java-net-course\project\server\TestFile2.txt</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-02-24T12:28:45.839478600Z</date>
+  <millis>1614169725839</millis>
+  <nanos>478600</nanos>
+  <sequence>0</sequence>
+  <logger>ru.sviridovaleksey.workwithfiles.WorkWithFile</logger>
+  <level>INFO</level>
+  <class>ru.sviridovaleksey.workwithfiles.WorkWithFile</class>
+  <method>processCreate</method>
+  <thread>1</thread>
+  <message>Папка для пользователя  создана F:\Java\java4\java-net-course\project\server\TestFOLDER</message>
+</record>
+<record>
+  <date>2021-02-24T12:28:45.968474600Z</date>
+  <millis>1614169725968</millis>
+  <nanos>474600</nanos>
+  <sequence>1</sequence>
+  <logger>ru.sviridovaleksey.workwithfiles.WorkWithFile</logger>
+  <level>INFO</level>
+  <class>ru.sviridovaleksey.workwithfiles.WorkWithFile</class>
+  <method>processCreate</method>
+  <thread>1</thread>
+  <message>Папка для пользователя  создана F:\Java\java4\java-net-course\project\server\TestFirst</message>
+</record>
+</log>
